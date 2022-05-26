@@ -1,0 +1,11 @@
+name: InfinityTool
+author: MIN
+version: 1.0.0
+api: 4.0.0
+main: MIN\InfinityTool\InfinityTool
+
+permissions:
+  it.op:
+    default: op
+  it.user:
+    default: true
